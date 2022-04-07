@@ -9,6 +9,15 @@ X Education sells online courses to industry professionals. The company markets 
 ### Business Goal
 X Education needs help in selecting the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company needs a model wherein you a lead score is assigned to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
 
+### Modeling
+<img src="./assets/metric table.png" width="900">
+
+### Feature Importance
+<img src="./assets/shap.png" width="900">
+
+### Profit Curve
+<img src="./assets/profit.png" width="900">
+<img src="./assets/profit curve.png" width="900">
 
 ### Data Description
 <table border=0 cellpadding=0 cellspacing=0 width=594 style='border-collapse:
